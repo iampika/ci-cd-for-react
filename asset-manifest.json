@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ci-cd-for-react/static/css/main.aea3dbcb.chunk.css",
+    "main.js": "/ci-cd-for-react/static/js/main.794cb47a.chunk.js",
+    "main.js.map": "/ci-cd-for-react/static/js/main.794cb47a.chunk.js.map",
+    "runtime-main.js": "/ci-cd-for-react/static/js/runtime-main.8fc00645.js",
+    "runtime-main.js.map": "/ci-cd-for-react/static/js/runtime-main.8fc00645.js.map",
+    "static/js/2.bd3173ae.chunk.js": "/ci-cd-for-react/static/js/2.bd3173ae.chunk.js",
+    "static/js/2.bd3173ae.chunk.js.map": "/ci-cd-for-react/static/js/2.bd3173ae.chunk.js.map",
+    "index.html": "/ci-cd-for-react/index.html",
+    "precache-manifest.92d5f63f890fbc5846e4ec5e7e5cff74.js": "/ci-cd-for-react/precache-manifest.92d5f63f890fbc5846e4ec5e7e5cff74.js",
+    "service-worker.js": "/ci-cd-for-react/service-worker.js",
+    "static/css/main.aea3dbcb.chunk.css.map": "/ci-cd-for-react/static/css/main.aea3dbcb.chunk.css.map",
+    "static/js/2.bd3173ae.chunk.js.LICENSE": "/ci-cd-for-react/static/js/2.bd3173ae.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc00645.js",
+    "static/js/2.bd3173ae.chunk.js",
+    "static/css/main.aea3dbcb.chunk.css",
+    "static/js/main.794cb47a.chunk.js"
+  ]
+}
