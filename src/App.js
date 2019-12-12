@@ -5,7 +5,7 @@ function App() {
     <div className="is-boxed has-animations">
       <div className="body-wrap boxed-container">
         <div className="container text-center mt-24">
-          <h1 className="text-secondary">App</h1>
+          <h1 className="text-secondary">Continuous Integration</h1>
         </div>
       </div>
     </div>
