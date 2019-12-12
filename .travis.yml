@@ -3,10 +3,10 @@ languages: node_js
 node_js:
   - '12.13.1'
 
-cache: yarn
+cache: npm
 
 install:
-  - yarn ci
+  - npm install
 
 script:
   - yarn test
